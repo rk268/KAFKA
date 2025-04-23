@@ -1,5 +1,6 @@
-# 🔁 Kafka-Based Real-Time Streaming Pipeline  
-[Project Files & Demo](https://drive.google.com/file/d/1ctwK0Lp9H0Z_lg3QeA6-SEqZM7keGBky/view?usp=sharing)
+# 🔁 Kafka-Based Real-Time Streaming Pipeline 
+ 
+![Kafka Pipeline](https://drive.google.com/uc?export=view&id=1ctwK0Lp9H0Z_lg3QeA6-SEqZM7keGBky)
 
 ## 📌 Project Overview
 
